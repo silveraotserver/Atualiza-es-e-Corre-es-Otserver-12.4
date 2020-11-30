@@ -1,0 +1,2 @@
+/data/lib/core    (aqui fica o storages.lua)
+/data/creaturescripts/scripts/others   (aqui fica o login.lua)
