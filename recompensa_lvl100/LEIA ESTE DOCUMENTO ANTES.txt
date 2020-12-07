@@ -1,0 +1,5 @@
+a pasta "recompensa_lvl100" deve ser adicionada no caminho: \data\actions\scripts\system
+
+o arquivo actions.xml deve ser colado no caminho: data\actions
+
+o arquivo storage deve ser colocado no caminho: \data\lib\core
